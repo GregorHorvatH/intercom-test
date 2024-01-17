@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/intercom-test/static/css/main.0d251978.css",
-    "main.js": "/intercom-test/static/js/main.ef9e0512.js",
+    "main.js": "/intercom-test/static/js/main.fac8c691.js",
     "index.html": "/intercom-test/index.html",
     "main.0d251978.css.map": "/intercom-test/static/css/main.0d251978.css.map",
-    "main.ef9e0512.js.map": "/intercom-test/static/js/main.ef9e0512.js.map"
+    "main.fac8c691.js.map": "/intercom-test/static/js/main.fac8c691.js.map"
   },
   "entrypoints": [
     "static/css/main.0d251978.css",
-    "static/js/main.ef9e0512.js"
+    "static/js/main.fac8c691.js"
   ]
 }
