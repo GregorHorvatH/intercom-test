@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intercom-test/static/css/main.0d251978.css",
+    "main.js": "/intercom-test/static/js/main.0cd0783c.js",
+    "index.html": "/intercom-test/index.html",
+    "main.0d251978.css.map": "/intercom-test/static/css/main.0d251978.css.map",
+    "main.0cd0783c.js.map": "/intercom-test/static/js/main.0cd0783c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d251978.css",
+    "static/js/main.0cd0783c.js"
+  ]
+}
